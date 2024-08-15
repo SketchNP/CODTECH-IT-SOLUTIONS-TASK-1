@@ -11,11 +11,15 @@
 
 ### Project: Marketing Automation with Mailchimp
 
-### Objective:
-- 
+### **Objective:**  
+- To set up a marketing automation workflow using Mailchimp that effectively manages and automates email sequences based on user actions and behaviors.
 
-### Key Activities:
-- 
+### **Key Activities:**
+- Set up automated email sequences based on user actions and behaviors.
+- Design email templates and automation workflows.
+- Segment the email list based on user behavior and demographics.
+- Track email performance.
+- Optimize email campaigns for better results.
 
-### Technologies Used:
-- 
+### **Technologies Used:**  
+- Mailchimp for email marketing automation.
