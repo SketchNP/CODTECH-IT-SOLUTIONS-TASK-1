@@ -7,3 +7,15 @@
 # **Duration** August to September 2024
 # **Mentor** Muzammil Ahmed
 
+## Overview of the project
+
+### Project: Marketing Automation with Mailchimp
+
+### Objective:
+- 
+
+### Key Activities:
+- 
+
+### Technologies Used:
+- 
