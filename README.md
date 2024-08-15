@@ -23,3 +23,8 @@
 
 ### **Technologies Used:**  
 - Mailchimp for email marketing automation.
+
+![image](https://github.com/user-attachments/assets/e7dd1390-ea0c-457b-9d69-eb9164c77c4f)
+
+![image](https://github.com/user-attachments/assets/1ca9f7c4-d944-46c8-bbd0-d607df16655d)
+
